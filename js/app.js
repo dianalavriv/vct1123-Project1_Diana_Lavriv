@@ -1,3 +1,3 @@
 function test (){
-    alert("js test");
+    alert("JS Test");
 }
